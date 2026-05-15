@@ -9,15 +9,19 @@ st.title("🏗️ Arizona Permit Pulse")
 st.markdown("### Daily Building Permit Leads for Tucson / Pima County Contractors")
 st.caption("Roofing • Solar • HVAC • Remodeling • Additions • Pool Fences")
 
-# Load latest data
+# Load latest data or run scraper
 csv_files = sorted([f for f in os.listdir(".") if f.startswith("permits_") and f.endswith(".csv")], reverse=True)
+
+if not csv_files or (datetime.now() - datetime.fromtimestamp(os.path.getmtime(csv_files[0]))).days > 0:
+    print("No recent data — running scraper...")
+    os.system("python real_scraper.py")
+    csv_files = sorted([f for f in os.listdir(".") if f.startswith("permits_") and f.endswith(".csv")], reverse=True)
 
 if csv_files:
     df = pd.read_csv(csv_files[0])
     df["Value"] = pd.to_numeric(df["Value"], errors="coerce")
-    df["Date"] = pd.to_datetime(df.get("Date", datetime.now()), errors="coerce")
 else:
-    st.error("No permit data found. Run `python real_scraper.py` first.")
+    st.error("No data found. Run scraper locally.")
     st.stop()
 
 # Filters
