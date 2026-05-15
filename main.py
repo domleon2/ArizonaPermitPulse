@@ -50,30 +50,35 @@ st.download_button(
     mime="text/csv"
 )
 
-# Monetization
+# === Monetization Section ===
 st.markdown("---")
 st.markdown("## 💰 Ready to Get These Leads Every Morning?")
 
-col_a, col_b = st.columns(2)
+col_a, col_b = st.columns([3, 2])
 
 with col_a:
     st.success("**Pro Plan — $79/month**")
     st.markdown("""
-    - Fresh leads delivered to your email daily  
-    - Full Phoenix / Maricopa County expansion  
-    - Priority support & custom filters  
-    - Unlimited exports & historical data
+    ✅ Daily email with **all new permits**  
+    ✅ Full Phoenix + Maricopa County coming soon  
+    ✅ Priority support  
+    ✅ CSV exports + historical access  
+    ✅ Cancel anytime
     """)
-    if st.button("🚀 Upgrade to Pro", type="primary", use_container_width=True):
-        st.success("✅ Thank you! I'll reach out shortly at domleon95@icloud.com")
+    
+    st.markdown("**Most popular with roofing & solar companies**")
+    
+    if st.button("🚀 Get Pro Access - $79/month", type="primary", use_container_width=True):
+        st.balloons()
+        st.success("✅ Thank you! I'll contact you within 24 hours at domleon95@icloud.com to set up your account.")
 
 with col_b:
-    st.info("**Free Plan**")
+    st.info("**Free Tier**")
     st.markdown("""
-    - Public dashboard with sample leads  
-    - Run the scraper yourself  
-    - Limited to Tucson area for now
+    • Public dashboard  
+    • Sample leads only  
+    • Limited to Tucson area
     """)
-    st.button("Stay on Free Plan", use_container_width=True)
+    st.button("Continue with Free", use_container_width=True)
 
-st.caption("Arizona Permit Pulse © 2026 | Built for Arizona Contractors")
+st.caption("Arizona Permit Pulse © 2026 | Built for Arizona Contractors • Questions? domleon95@icloud.com")
