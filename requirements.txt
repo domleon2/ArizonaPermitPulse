@@ -1,5 +1,5 @@
 streamlit
 pandas
-python-dateutil
-pdfplumber
 requests
+pdfplumber
+python-dateutil
