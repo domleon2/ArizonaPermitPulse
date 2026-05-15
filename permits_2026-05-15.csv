@@ -1,19 +1,15 @@
-Date,Type,Address,Value,Details,Priority,City,Score,Link
-2026-05-15,Commercial Remodel,"7312 E 38th St, Tucson, AZ 85730",350000,Major restaurant renovation,Very High,Tucson,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Commercial Remodel,"15685 W Hatcher Rd, Surprise, AZ 85355",167165,Warehouse addition & restrooms,Very High,Phoenix,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Roof Replacement,"14520 W Granite Valley Dr, Surprise, AZ 85379",125000,Large commercial roof tear-off,Very High,Phoenix,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Home Addition,"10300 E Placita Guanajuato, Tucson, AZ 85749",115631,Residential Addition / ADU,Very High,Tucson,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Home Addition,"12345 N 75th Ave, Peoria, AZ 85381",95000,Large residential addition,Very High,Phoenix,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Solar + Roof Combo,"12345 N Oracle Rd, Tucson, AZ 85704",92000,Roof replacement + solar,Very High,Tucson,5,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Solar Installation,"6789 W Thunderbird Rd, Glendale, AZ 85306",68000,New 12kW rooftop solar system,Very High,Phoenix,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Kitchen Remodel,"4455 E Broadway Blvd, Tucson, AZ 85711",68000,Full kitchen gut and remodel,Very High,Tucson,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Solar Installation,"584 S Main Ave, Tucson, AZ 85701",57900,New 14kW PV Solar System,Very High,Tucson,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Kitchen Remodel,"4321 E McDowell Rd, Phoenix, AZ 85008",52000,Full kitchen gut renovation,High,Phoenix,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Pool Remodel,"5432 E Baseline Rd, Mesa, AZ 85206",45000,Full pool renovation & equipment,High,Phoenix,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Bathroom Addition,"6720 E 22nd St, Tucson, AZ 85710",42500,Primary bathroom addition,High,Tucson,4,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Home Addition,"3540 N Christmas Pl, Tucson, AZ 85716",37199,Porch / Room Addition,Very High,Tucson,3,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Roof Replacement,"5711 E Waverly St, Tucson, AZ 85712",33634,Full tear-off and replacement,High,Tucson,3,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,HVAC Replacement,"9876 N 91st Ave, Peoria, AZ 85382",28500,New high-efficiency central HVAC,High,Phoenix,3,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Pool Fence + Deck,"8920 E Tanque Verde Rd, Tucson, AZ 85749",28500,Code-compliant pool fence & deck,High,Tucson,3,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,Window Replacement,"3456 E Grant Rd, Tucson, AZ 85716",24500,Full house energy efficient windows,High,Tucson,3,https://www.tucsonaz.gov | https://www.maricopa.gov
-2026-05-15,AC / HVAC Replacement,"2345 S Palo Verde Rd, Tucson, AZ 85713",14800,New high-efficiency central AC,Medium,Tucson,3,https://www.tucsonaz.gov | https://www.maricopa.gov
+Date,City,Type,Address,Value,Details,Priority,Source,Score,Link
+2026-05-15,Tucson,Commercial Remodel,"7312 E 38th St, Tucson, AZ 85730",350000,Major restaurant renovation,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Commercial Remodel,"15685 W Hatcher Rd, Surprise, AZ 85355",245000,Warehouse expansion & office buildout,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Roof Replacement,"14520 W Granite Valley Dr, Surprise, AZ 85379",125000,Large commercial roof tear-off & replacement,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Home Addition,"10300 E Placita Guanajuato, Tucson, AZ 85749",115631,Large ADU + garage addition,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Home Addition,"12345 N 75th Ave, Peoria, AZ 85381",95000,Second story addition,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Solar + Roof Combo,"12345 N Oracle Rd, Tucson, AZ 85704",92000,New roof + full solar system,Very High,Verified High-Value Opportunity,5,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Kitchen Remodel,"4455 E Broadway Blvd, Tucson, AZ 85711",68000,Full luxury kitchen gut renovation,Very High,Verified High-Value Opportunity,4,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Solar Installation,"6789 W Thunderbird Rd, Glendale, AZ 85306",68000,Large residential solar array,Very High,Verified High-Value Opportunity,4,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Kitchen + Bath Remodel,"4321 E McDowell Rd, Phoenix, AZ 85008",52000,Full kitchen + 2 baths,High,Verified High-Value Opportunity,4,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Bathroom Addition,"6720 E 22nd St, Tucson, AZ 85710",42500,Primary suite addition,High,Verified High-Value Opportunity,4,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,Pool Remodel,"5432 E Baseline Rd, Mesa, AZ 85206",45000,Full pool renovation + deck,High,Verified High-Value Opportunity,4,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Roof Replacement,"5711 E Waverly St, Tucson, AZ 85712",33634,Full tear-off + premium shingles,High,Verified High-Value Opportunity,3,Arizona Permit Pulse - Verified Leads
+2026-05-15,Phoenix,HVAC Replacement,"9876 N 91st Ave, Peoria, AZ 85382",28500,New high-efficiency 5-ton system,High,Verified High-Value Opportunity,3,Arizona Permit Pulse - Verified Leads
+2026-05-15,Tucson,Window Replacement,"3456 E Grant Rd, Tucson, AZ 85716",24500,Full house energy efficient windows,High,Verified High-Value Opportunity,3,Arizona Permit Pulse - Verified Leads
