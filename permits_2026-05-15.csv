@@ -1,7 +1,8 @@
-Date,City,Type,Address,Value,Score,Details,Priority,Link
-2026-05-15,Tucson,Commercial Remodel,"7312 E 38th St, Tucson, AZ 85730",350000,5,Major renovation,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
-2026-05-15,Tucson,Home Addition,"10300 E Placita Guanajuato, Tucson, AZ 85749",115631,5,Residential Addition,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
-2026-05-15,Tucson,Solar Installation,"584 S Main Ave, Tucson, AZ 85701",57900,5,PV Solar System,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
-2026-05-15,Tucson,Home Addition,"3540 N Christmas Pl, Tucson, AZ 85716",37199,5,Porch / Room Addition,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
-2026-05-15,Tucson,Roof Replacement,"5711 E Waverly St, Tucson, AZ 85712",33634,4,Residential Addition/Alteration,High,https://www.tucsonaz.gov (Weekly Permit Report)
-2026-05-15,Tucson,AC / HVAC Replacement,"2345 S Palo Verde Rd, Tucson, AZ 85713",14800,4,New high-efficiency system,Medium,https://www.tucsonaz.gov (Weekly Permit Report)
+Date,City,Type,Address,Value,Details,Priority,Score,Link
+2026-05-15,Tucson,Commercial Remodel,"7312 E 38th St, Tucson, AZ 85730",350000,Major renovation,Very High,5,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Home Addition,"10300 E Placita Guanajuato, Tucson, AZ 85749",115631,Residential Addition,Very High,5,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Solar Installation,"584 S Main Ave, Tucson, AZ 85701",57900,PV Solar System,Very High,5,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Residential Permit,"4475 West Irvington Road, Tucson, Tucson, AZ",40000,Real permit from Tucson Weekly Report,High,4,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Home Addition,"3540 N Christmas Pl, Tucson, AZ 85716",37199,Porch / Room Addition,Very High,4,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Roof Replacement,"5711 E Waverly St, Tucson, AZ 85712",33634,Residential Addition/Alteration,High,4,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,AC / HVAC Replacement,"2345 S Palo Verde Rd, Tucson, AZ 85713",14800,New high-efficiency system,Medium,4,https://www.tucsonaz.gov (Weekly Permit Report)

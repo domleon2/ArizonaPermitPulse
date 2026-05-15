@@ -1,0 +1,21 @@
+Subject: Tucson Contractors - New Daily Permit Leads (Roofing/Solar/HVAC)
+
+Hi [Contractor Name],
+
+I built a tool that pulls fresh building permits in Pima County every morning — the exact jobs you want first (roof replacements, solar installs, AC replacements, additions, etc.).
+
+Would you like to see today's leads?
+
+Example from today:
+• $198k Commercial Remodel
+• $89k Home Addition  
+• $52k Solar Installation
+• +4 more high-value jobs
+
+Reply with "YES" and I'll send you this week's leads for free.
+
+Best,
+Dom
+Arizona Permit Pulse
+domleon95@icloud.com
+https://arizonapermitpulse-ywqioednez3qgkevrfxjeu.streamlit.app/
