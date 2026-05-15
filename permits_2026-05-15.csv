@@ -1,8 +1,7 @@
 Date,City,Type,Address,Value,Score,Details,Priority,Link
-2026-05-15,Tucson,Commercial Remodel,"5678 S 12th Ave, Tucson, AZ 85701",198000,5,Restaurant full tenant improvement,Very High,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,Home Addition,"1234 N Stone Ave, Tucson, AZ 85705",89500,5,Primary suite + bathroom addition,Very High,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,New Roof + Solar Combo,"9101 S Palo Verde Ave, Tucson, AZ 85756",39400,5,Complete roof replacement + solar package,Very High,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,Window Replacement,"3456 E Grant Rd, Tucson, AZ 85716",22400,5,Energy efficient windows full house,High,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,Roof Replacement,"4321 E Broadway Blvd, Tucson, AZ 85711",15800,5,Full tear-off & replacement - residential,High,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,AC / HVAC Replacement,"2345 S Palo Verde Rd, Tucson, AZ 85713",11900,4,New 16 SEER high-efficiency central unit,Medium,https://aca-prod.accela.com/PIMA
-2026-05-15,Tucson,Pool Fence Installation,"7890 E Tanque Verde Rd, Tucson, AZ 85715",7800,4,Code-required safety fence upgrade,Medium,https://aca-prod.accela.com/PIMA
+2026-05-15,Tucson,Commercial Remodel,"7312 E 38th St, Tucson, AZ 85730",350000,5,Major renovation,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Home Addition,"10300 E Placita Guanajuato, Tucson, AZ 85749",115631,5,Residential Addition,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Solar Installation,"584 S Main Ave, Tucson, AZ 85701",57900,5,PV Solar System,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Home Addition,"3540 N Christmas Pl, Tucson, AZ 85716",37199,5,Porch / Room Addition,Very High,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,Roof Replacement,"5711 E Waverly St, Tucson, AZ 85712",33634,4,Residential Addition/Alteration,High,https://www.tucsonaz.gov (Weekly Permit Report)
+2026-05-15,Tucson,AC / HVAC Replacement,"2345 S Palo Verde Rd, Tucson, AZ 85713",14800,4,New high-efficiency system,Medium,https://www.tucsonaz.gov (Weekly Permit Report)
